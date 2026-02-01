@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|c:\\users\\guilherme\\documents\\softwareems\\emsapp\\emsapp\\banco\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|solutionrelative:emsapp\\banco\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|c:\\users\\guilherme\\documents\\softwareems\\emsapp\\emsapp\\repositorio\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|solutionrelative:emsapp\\repositorio\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|c:\\users\\guilherme\\documents\\softwareems\\emsapp\\emsapp\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|solutionrelative:emsapp\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|c:\\users\\guilherme\\documents\\softwareems\\emsapp\\emsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|solutionrelative:emsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|c:\\users\\guilherme\\documents\\softwareems\\emsapp\\emsapp\\emsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{958B613C-C0F7-4240-BE00-8DBB2F92651D}|EmsApp\\EmsApp.csproj|solutionrelative:emsapp\\emsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Repositorio\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "EmsApp\\Repositorio\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Repositorio\\ProdutoRepository.cs",
+              "RelativeToolTip": "EmsApp\\Repositorio\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T19:07:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Banco\\Database.cs",
+              "RelativeDocumentMoniker": "EmsApp\\Banco\\Database.cs",
+              "ToolTip": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Banco\\Database.cs",
+              "RelativeToolTip": "EmsApp\\Banco\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:50:18.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "EmsApp\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Entidades\\Produto.cs",
+              "RelativeToolTip": "EmsApp\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:49:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmsApp",
+              "DocumentMoniker": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\EmsApp.csproj",
+              "RelativeDocumentMoniker": "EmsApp\\EmsApp.csproj",
+              "ToolTip": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\EmsApp.csproj",
+              "RelativeToolTip": "EmsApp\\EmsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T18:17:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\Program.cs",
+              "RelativeToolTip": "EmsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:15:11.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ve5QNjogGPY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilherme\\Documents\\softwareems\\EmsApp\\EmsApp\\EmsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
