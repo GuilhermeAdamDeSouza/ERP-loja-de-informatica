@@ -1,5 +1,61 @@
+# ===== Visual Studio / IDE =====
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== Build / Compilação =====
 bin/
 obj/
-*.user
-*.suo
+[Bb]uild/
+[Bb]in/
+
+# ===== Publicação =====
+publish/
+Publish/
+
+# ===== Logs =====
+*.log
+
+# ===== Cache =====
+*.cache
+*.tmp
+*.temp
+
+# ===== Banco de dados local =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== Configurações locais =====
+appsettings.Development.json
+appsettings.Local.json
+
+# ===== Windows =====
+Thumbs.db
+Desktop.ini
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Rider / JetBrains =====
+.idea/
+
+# ===== Arquivos de backup =====
+*.bak
+*.old
+*.orig
+
+# ===== Testes =====
+TestResults/
+
+# ===== NuGet =====
+*.nupkg
+.nuget/
+packages/
+
+# ===== Outros =====
+*.pdb
+*.dll
+*.exe
